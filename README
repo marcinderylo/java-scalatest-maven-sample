@@ -1,0 +1,3 @@
+Sample usage of ScalaTest within a Maven project, testing pure Java code with test cases written in Scala. Shows ScalaTest+TestNG tests as well as ScalaTest-only (using scalatest-maven-plugin from Sonatype's plugins repository).
+
+The sample was created for the testing/TDD workshop I ran for my co-workers and by no means shows how to use ScalaTest's Specs correctly, just shows the nice syntax sugar it offers.
